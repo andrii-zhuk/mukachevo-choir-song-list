@@ -111,7 +111,7 @@ function App() {
   return (
     <ThemeProvider theme={theme}>
       <Box sx={{ bgcolor: 'background.default', minHeight: '100vh' }}>
-        <Router>
+        <Router basename='/mukachevo-choir-song-list'>
           <Routes>
             <Route path="/" element={<HomePage />} />
             <Route path="/about" element={<About />} />
