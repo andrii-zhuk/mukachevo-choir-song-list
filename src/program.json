@@ -1,0 +1,32 @@
+{
+  "concertTitle": "Концерт до дня Матері",
+  "eventDate": "2026-04-07",
+  "eventTime": "17:00",
+  "eventPlace": "Християнський культурний центр",
+  "venue": "м. Мукачево, вул. Росвигівська, 9а",
+  "venueMapUrl": "https://maps.app.goo.gl/MiG2SmRRYncQooMf7",
+  "items": [
+    {
+      "composer": "Слова: ..., Муз: В. Волонтир",
+      "title": "Мамині рушники",
+      "soloist": ""
+    },
+    {
+      "composer": "Леонард Коен, Аранж.: В. Волонтир",
+      "title": "Алилуя",
+      "soloist": "Леся Гоца"
+    },
+    {
+      "composer": "В. Волонтир",
+      "title": "Ave Maria"
+    },
+    {
+      "composer": "В. Волонтир",
+      "title": "Ave Maria"
+    },
+    {
+      "composer": "G. Handel",
+      "title": "Dank sei dir, Herr"
+    }
+  ]
+}
